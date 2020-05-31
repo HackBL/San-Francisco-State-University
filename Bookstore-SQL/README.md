@@ -6,4 +6,4 @@
 
 ## Searching result:
 ![alt text](https://github.com/bojms45/San-Francisco-State-University/blob/master/Bookstore-SQL/
-/DB_Result.png?raw=true)
+DB_Result.png?raw=true)
