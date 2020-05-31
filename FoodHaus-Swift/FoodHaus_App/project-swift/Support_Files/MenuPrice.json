@@ -1,0 +1,66 @@
+{
+    "data": {
+        "productType": [
+                        
+                        {
+                        "typeName": "Sandwiches",
+                        "productPrice": [
+                                        "9.50",
+                                        "8.95",
+                                        "10.95",
+                                        "11.95"
+                                        ]
+                        },
+                        
+                        {
+                        "typeName": "Seafood",
+                        "productPrice": [
+                                        "12.95",
+                                        "12.95",
+                                        "12.95"
+                                        ]
+                        },
+                        
+                        {
+                        "typeName": "Salads",
+                        "productPrice": [
+                                        "5.95",
+                                        "6.95",
+                                        "8.75"
+                                        ]
+                        },
+                        {
+                        "typeName": "Soups & Chowders",
+                        "productPrice": [
+                                        "6.75",
+                                        "4.95",
+                                        "4.95"
+                                        
+                                        ]
+                        },
+                        {
+                        "typeName": "Kid's Meals",
+                        "productPrice": [
+                                        "5.95",
+                                        "6.25",
+                                        "5.25",
+                                        "5.25",
+                                        "6.75"
+                                        ]
+                        },
+                        {
+                        "typeName": "Sides",
+                        "productPrice": [
+                                        "7.95",
+                                        "9.95",
+                                        "7.95",
+                                        "24.95",
+                                        "6.95",
+                                        "10.95",
+                                        "3.50"
+                                        ]
+                        }
+                        
+                        ]
+    }
+}

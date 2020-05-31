@@ -1,0 +1,66 @@
+{
+    "data": {
+        "productType": [
+                        
+                        {
+                        "typeName": "Sandwiches",
+                        "productName": [
+                                        "Roast beef",
+                                        "BBQ Pulled Beef",
+                                        "Pastrami",
+                                        "Reuben"
+                                        ]
+                        },
+                        
+                        {
+                        "typeName": "Seafood",
+                        "productName": [
+                                        "Fish Plate",
+                                        "Clam Plate",
+                                        "Clam Roll"
+                                        ]
+                        },
+                        
+                        {
+                        "typeName": "Salads",
+                        "productName": [
+                                        "Garden Salad",
+                                        "Caesar Salad",
+                                        "Greek Salad"
+                                        ]
+                        },
+                        {
+                        "typeName": "Soups & Chowders",
+                        "productName": [
+                                        "Clam Chowder",
+                                        "Chicken Noodle Soup",
+                                        "Beef Chilli"
+                                        
+                                        ]
+                        },
+                        {
+                        "typeName": "Kid's Meals",
+                        "productName": [
+                                        "Hamburger Plate",
+                                        "Cheeseberger Plate",
+                                        "Hotdog Plate",
+                                        "Grilled Cheese Plate",
+                                        "Chicken Finger Plate"
+                                        ]
+                        },
+                        {
+                        "typeName": "Sides",
+                        "productName": [
+                                        "French Fries",
+                                        "Onion Rings",
+                                        "Coleslaw",
+                                        "Fried Shrimp",
+                                        "Cheese Fries",
+                                        "Chicken Finger",
+                                        "Mac & Cheese"
+                                        ]
+                        }
+                        
+                        ]
+    }
+}
