@@ -4,4 +4,4 @@
 * Insert data into all tables
 * Using Selection operation to see corresponding 
 
-## Searching resule:
+## Searching result:
