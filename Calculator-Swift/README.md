@@ -1,4 +1,4 @@
-# Calculator-Swift
+# Calculator - Swift
 * Developed by swift related to the course in SFSU - Spring 2018
 * Input allows Integer and Double
 * Result displays Integer or Double
